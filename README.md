@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **youtube**
-
-- 🤔 I’m looking for help with **documentation**
-
 - 💬 Ask me about **reactJs,nodeJs,PostgreSql**
 
 - 📫 How to reach me **reebasiddiqui456@gmail.com**
