@@ -4,7 +4,6 @@
 <img align="right" width="280px" height="200px" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif" alt="reeba12" />
 
 - 🔭 I’m currently working on React Native
-//[Context](https://context-app-2my7afm7yq-ue.a.run.app/)
 
 - 🌱 I’m currently learning **Flutter**
 
